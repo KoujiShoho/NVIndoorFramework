@@ -1,0 +1,184 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name NVIndoorKit
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import CoreGraphics
+import CoreLocation
+import CoreML
+import CoreMotion
+import Foundation
+import NVDirectionKit
+@_exported import NVIndoorKit
+import Swift
+import SwiftyJSON
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum IndoorPlaceId : Swift.String {
+  case P27
+  case FVH
+  case MVH
+  case MB
+  case GDL
+  case VOLTAIRE
+  case CHARONNE
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum IndoorPlaceType : Swift.String {
+  case STATION
+  case BUILDING
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class Particle {
+  @objc deinit
+}
+public class Stair {
+  public init(path: [CoreLocation.CLLocationCoordinate2D], speed: Swift.Double)
+  public func getCoordinatePath() -> [CoreLocation.CLLocationCoordinate2D]
+  public func getPointPath() -> [CoreFoundation.CGPoint]
+  @objc deinit
+}
+public protocol NVIndoorLocationServiceDelegate : AnyObject {
+  func onLocationChanged(location: NVDirectionKit.NVibeIndoorLocation)
+  func onHeadingChanged(heading: Swift.Double)
+  func onLocationNotFound()
+}
+public protocol IndoorLocationDebugDelegate : AnyObject {
+  func onParticleChanged(particles: [CoreLocation.CLLocationCoordinate2D])
+  func onClusterChanged(cluster: Swift.Int)
+}
+@objc open class NVIndoorLocationService : ObjectiveC.NSObject {
+  weak public var delegate: (any NVIndoorKit.NVIndoorLocationServiceDelegate)?
+  weak public var debugDelegate: (any NVIndoorKit.IndoorLocationDebugDelegate)?
+  public init(delegate: (any NVIndoorKit.NVIndoorLocationServiceDelegate)? = nil)
+  public func startUpdateLocation(location: NVDirectionKit.NVibeIndoorLocation? = nil, id: NVIndoorKit.IndoorPlaceId, completion: @escaping () -> Swift.Void)
+  public func stopUpdateLocation()
+  public func pauseUpdateLocation()
+  public func unpauseUpdateLocation()
+  public func forceNewLocation(location: NVDirectionKit.NVibeIndoorLocation)
+  public func forceNewCoordinate(coordinate: CoreLocation.CLLocationCoordinate2D)
+  public func moveToLocation(location: NVDirectionKit.NVibeIndoorLocation, id: NVIndoorKit.IndoorPlaceId? = nil)
+  public func getMapData() -> NVIndoorKit.IndoorMap?
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers open class NVibeIndoorRoute {
+  public var id: NVIndoorKit.IndoorPlaceId
+  public var startLocation: NVDirectionKit.NVibeIndoorLocation
+  public var endLocation: NVDirectionKit.NVibeIndoorLocation
+  public var steps: [NVIndoorKit.NVibeIndoorStep]
+  @objc deinit
+}
+open class NVibeIndoorStep {
+  public enum NVibeIndoorManeuver {
+    case ARRIVE, DEPART, TURNSTILE, DOOR, STAIR_UP, STAIR_DOWN, ELEVATOR_ENTER, ELEVATOR_EXIT, ELEVATOR_UP, ELEVATOR_DOWN, CONTINUE, TURN
+    public static func == (a: NVIndoorKit.NVibeIndoorStep.NVibeIndoorManeuver, b: NVIndoorKit.NVibeIndoorStep.NVibeIndoorManeuver) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public enum NVibeIndoorDirection {
+    case LEFT, RIGHT, STRAIGHT, UTURN
+    public static func == (a: NVIndoorKit.NVibeIndoorStep.NVibeIndoorDirection, b: NVIndoorKit.NVibeIndoorStep.NVibeIndoorDirection) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public var startLocation: CoreLocation.CLLocation
+  public var endLocation: CoreLocation.CLLocation
+  public var geometry: [CoreLocation.CLLocationCoordinate2D]
+  public var floorInstruction: [Swift.Int]
+  public var distance: Swift.Int
+  public var maneuver: NVIndoorKit.NVibeIndoorStep.NVibeIndoorManeuver
+  public var direction: NVIndoorKit.NVibeIndoorStep.NVibeIndoorDirection
+  public var instruction: Swift.String
+  public var image: UIKit.UIImage?
+  public var heading: Swift.Double
+  public init(startLocation: CoreLocation.CLLocation, endLocation: CoreLocation.CLLocation, geometry: [CoreLocation.CLLocationCoordinate2D] = [], floorInstruction: [Swift.Int], maneuver: NVIndoorKit.NVibeIndoorStep.NVibeIndoorManeuver, direction: NVIndoorKit.NVibeIndoorStep.NVibeIndoorDirection, instruction: Swift.String, image: Swift.String)
+  public init(startLocation: CoreLocation.CLLocation, endLocation: CoreLocation.CLLocation, geometry: [CoreLocation.CLLocationCoordinate2D] = [], floorInstruction: [Swift.Int], maneuver: NVIndoorKit.NVibeIndoorStep.NVibeIndoorManeuver, direction: NVIndoorKit.NVibeIndoorStep.NVibeIndoorDirection, instruction: Swift.String, image: UIKit.UIImage?)
+  @objc deinit
+}
+public protocol NVIndoorNavigationServiceDelegate : AnyObject {
+  func indoorNavigationService(_ service: NVIndoorKit.NVIndoorNavigationService, currentStep: NVIndoorKit.NVibeIndoorStep, nextStep: NVIndoorKit.NVibeIndoorStep, with location: NVDirectionKit.NVibeIndoorLocation, rawLocation: NVDirectionKit.NVibeIndoorLocation, heading: CoreLocation.CLLocationDirection, remainingRouteDistance: Swift.Int, remainingStepDistance: Swift.Int)
+  func indoorNavigationService(_ service: NVIndoorKit.NVIndoorNavigationService, onStepChanged: NVIndoorKit.NVibeIndoorStep, remainingStep: Swift.Int)
+}
+public protocol NVIndoorNavigationLocationServiceDelegate : AnyObject {
+  func indoorNavigationService(_ service: NVIndoorKit.NVIndoorNavigationService, onLocationChanged: NVDirectionKit.NVibeIndoorLocation?)
+  func indoorNavigationService(_ service: NVIndoorKit.NVIndoorNavigationService, onDirectionChanged: CoreLocation.CLLocationDirection)
+}
+@objc open class NVIndoorNavigationService : ObjectiveC.NSObject {
+  public init(delegate: (any NVIndoorKit.NVIndoorNavigationServiceDelegate)? = nil, locationDelegate: (any NVIndoorKit.NVIndoorNavigationLocationServiceDelegate)? = nil)
+  public func startNavigation(route: NVIndoorKit.NVibeIndoorRoute, completion: @escaping () -> Swift.Void)
+  public func stopNavigation()
+  public func getMapData() -> NVIndoorKit.IndoorMap?
+  @objc deinit
+}
+extension NVIndoorKit.NVIndoorNavigationService : NVIndoorKit.NVIndoorLocationServiceDelegate {
+  public func onLocationChanged(location: NVDirectionKit.NVibeIndoorLocation)
+  public func onHeadingChanged(heading: Swift.Double)
+  public func onLocationNotFound()
+}
+extension Swift.Array where Element : NVDirectionKit.NVibeMultimodalRoute {
+  public mutating func updateIndoor(codeZone: Swift.String? = nil, departureLocation: NVDirectionKit.NVibeLocation? = nil, plusCode: Swift.String? = nil)
+}
+public class Cluster {
+  public init(path: [CoreLocation.CLLocationCoordinate2D], index: Swift.Int, color: UIKit.UIColor, isEnable: Swift.Bool = true)
+  public func getCoordinatePath() -> [CoreLocation.CLLocationCoordinate2D]
+  public func getPointPath() -> [CoreFoundation.CGPoint]
+  public func getIndex() -> Swift.Int
+  public func getColor() -> UIKit.UIColor
+  @objc deinit
+}
+public class Wall {
+  public init(a: CoreLocation.CLLocationCoordinate2D, b: CoreLocation.CLLocationCoordinate2D)
+  public func getCoordinatePath() -> [CoreLocation.CLLocationCoordinate2D]
+  public func getPointPath() -> [CoreFoundation.CGPoint]
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class IndoorMap {
+  public var floors: Swift.Int
+  public var walls: [[NVIndoorKit.Wall]]
+  public var stairs: [[NVIndoorKit.Stair]]
+  public var elevators: [NVIndoorKit.Wall]
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers open class NVIndoorDirection : ObjectiveC.NSObject {
+  public static let shared: NVIndoorKit.NVIndoorDirection
+  public func getRoute(from step: NVDirectionKit.NVibeMultimodalStep) -> NVIndoorKit.NVibeIndoorRoute?
+  @objc override dynamic public init()
+  @objc deinit
+}
+public enum ZoneState : Swift.String {
+  case IN
+  case OUT
+  case UNKNOW
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+extension NVIndoorKit.IndoorPlaceId : Swift.Equatable {}
+extension NVIndoorKit.IndoorPlaceId : Swift.Hashable {}
+extension NVIndoorKit.IndoorPlaceId : Swift.RawRepresentable {}
+extension NVIndoorKit.IndoorPlaceType : Swift.Equatable {}
+extension NVIndoorKit.IndoorPlaceType : Swift.Hashable {}
+extension NVIndoorKit.IndoorPlaceType : Swift.RawRepresentable {}
+extension NVIndoorKit.NVibeIndoorStep.NVibeIndoorManeuver : Swift.Equatable {}
+extension NVIndoorKit.NVibeIndoorStep.NVibeIndoorManeuver : Swift.Hashable {}
+extension NVIndoorKit.NVibeIndoorStep.NVibeIndoorDirection : Swift.Equatable {}
+extension NVIndoorKit.NVibeIndoorStep.NVibeIndoorDirection : Swift.Hashable {}
+extension NVIndoorKit.ZoneState : Swift.Equatable {}
+extension NVIndoorKit.ZoneState : Swift.Hashable {}
+extension NVIndoorKit.ZoneState : Swift.RawRepresentable {}

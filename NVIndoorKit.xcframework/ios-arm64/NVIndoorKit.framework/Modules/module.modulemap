@@ -1,0 +1,11 @@
+framework module NVIndoorKit {
+  umbrella header "NVIndoorKit.h"
+  export *
+
+  module * { export * }
+}
+
+module NVIndoorKit.Swift {
+  header "NVIndoorKit-Swift.h"
+  requires objc
+}
