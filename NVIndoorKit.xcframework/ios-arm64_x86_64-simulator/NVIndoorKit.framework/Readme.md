@@ -26,3 +26,7 @@ xcodebuild -create-xcframework \
 -framework 'archives/NVIndoorKit-iphonesimulator.xcarchive/Products/Library/Frameworks/NVIndoorKit.framework' \
 -framework 'archives/NVIndoorKit-iphoneos.xcarchive/Products/Library/Frameworks/NVIndoorKit.framework' \
 -output 'archives/NVIndoorKit.xcframework'
+
+#  PUBLISH COCOAPOD
+
+pod trunk push NVIndoorKit.podspec

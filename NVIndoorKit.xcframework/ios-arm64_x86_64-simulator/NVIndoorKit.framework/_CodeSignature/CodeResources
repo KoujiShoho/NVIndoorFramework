@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		+FQ4ObYZ3NLmm+2wb900A/WXUn8=
+		xo58HKPRmXYndREpBhEVESnmZ/0=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		+FQ4ObYZ3NLmm+2wb900A/WXUn8=
+		xo58HKPRmXYndREpBhEVESnmZ/0=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Readme.md</key>
 		<data>
-		yT4qHqaThy/Ns/sJekx2GU+Qcxk=
+		ftmrKxkgmLtIM4MxqGKQrql1+i0=
 		</data>
 		<key>charonne_data.json</key>
 		<data>
@@ -137,7 +137,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/YwjNw97CXzSiUwrbECzBuF6BrVRryG+zD4pxgH3xY4=
+			ZKcjbgmHl8PycuFa08C7RRZsa/1/T+JCmKdcePi0WUk=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -172,7 +172,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/YwjNw97CXzSiUwrbECzBuF6BrVRryG+zD4pxgH3xY4=
+			ZKcjbgmHl8PycuFa08C7RRZsa/1/T+JCmKdcePi0WUk=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -214,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IEco1M9ry3npORqAfpTRUVz6FsPADc0tUenTg+ulajA=
+			4GgtTvwybQAhZfOJFRfn48iA+VT0ajwCYhiBvLNr7QA=
 			</data>
 		</dict>
 		<key>charonne_data.json</key>
