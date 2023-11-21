@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		xo58HKPRmXYndREpBhEVESnmZ/0=
+		lTXmAaRnZib6Ax6+NhEPSJ4zsRY=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		FX+VvORaZ6zhkn0ITCHzPH+XKI8=
+		yuli0sB/tQWs7Vy+ghItylynM6k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -117,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZKcjbgmHl8PycuFa08C7RRZsa/1/T+JCmKdcePi0WUk=
+			IQBbnUtSFT2Xf/cMpJLwE1PCsdGFyivuQ7FOIpASx5c=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UrqZGJemsDOOnvMVfE3yymx862ngRNXbyyFKvU+ydwM=
+			b7K6nQciRup6v0rn4xm2mQwTB6CxJB/1tNB0vxNCcq8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
