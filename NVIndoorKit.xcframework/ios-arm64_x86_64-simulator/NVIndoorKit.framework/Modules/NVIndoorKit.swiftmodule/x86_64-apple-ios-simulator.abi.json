@@ -21450,77 +21450,77 @@
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2682,
+      "offset": 2770,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2714,
+      "offset": 2802,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "Array",
-      "offset": 2844,
+      "offset": 2932,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3655,
+      "offset": 3743,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3687,
+      "offset": 3775,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4057,
+      "offset": 4145,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4089,
+      "offset": 4177,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 4415,
+      "offset": 4503,
       "length": 38,
       "value": "\"Cannot get route from no indoor step\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 4769,
+      "offset": 4857,
       "length": 33,
       "value": "\"This address has no indoor data\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 4851,
+      "offset": 4939,
       "length": 17,
       "value": "\"Place retrieved\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5069,
+      "offset": 5157,
       "length": 16,
       "value": "\"Node not found\""
     },
