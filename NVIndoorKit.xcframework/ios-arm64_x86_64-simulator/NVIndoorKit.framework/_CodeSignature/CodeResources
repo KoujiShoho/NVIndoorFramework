@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		KAWRTr8oh5rNTwE24jJRUGTEfpY=
+		+b908UVv4hec4QTb6ajv7nkAm80=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		GnyQSxsARpbrhGNlscF0Q1SgUsw=
+		/MrUQF2NBZoJVcYk+nDoGBDfBS0=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		GnyQSxsARpbrhGNlscF0Q1SgUsw=
+		/MrUQF2NBZoJVcYk+nDoGBDfBS0=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ktW9/A61OwYwJNIUSwYgcBa/k9A=
+		zj20YNFxUhdQjSZIV//61r/3mpk=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		KAWRTr8oh5rNTwE24jJRUGTEfpY=
+		+b908UVv4hec4QTb6ajv7nkAm80=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		MBRw+At+JpnX1Mf+hwj0jSz9hOM=
+		j2vxdG3Jn5ZP2sXC1y3vLTlbd/E=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		MBRw+At+JpnX1Mf+hwj0jSz9hOM=
+		j2vxdG3Jn5ZP2sXC1y3vLTlbd/E=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JEHGuBeiomoewZ6/XVxg0tjzx+Q=
+		Qr0LYRAjZOqrU0R4drW77Lwuk0w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Readme.md</key>
 		<data>
-		IdzFr+87139eOi6gFr88VXGoRkI=
+		4FV6Hq/SFyKauiANJqDDAYXzHWM=
 		</data>
 		<key>charonne_data.json</key>
 		<data>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C/I5b3SZ1ZAdNGpvc+JZwMQIL4OFDy3JXggaiYsmERw=
+			cQl+Fj5BeFl4Ftxyl5IcjI3iBC+EQznMPbAAC4h9LlQ=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qykzWgh09IXA+0D4sSD7JsnSPglOc0xO2YggLQAgfLo=
+			I2BJ+z9WFjYDBQi9FC14FnZ1xVieR8ONzrOAoOMzSi4=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -158,28 +158,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qykzWgh09IXA+0D4sSD7JsnSPglOc0xO2YggLQAgfLo=
+			I2BJ+z9WFjYDBQi9FC14FnZ1xVieR8ONzrOAoOMzSi4=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vF7UERW7fCEDvDdlnzKB3qJ2P9xXA6YLEvUBufHcrWM=
+			jPPniKJiKmnAhP1L5kcEoQvokSdDMPkYY2r83saY/Os=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C/I5b3SZ1ZAdNGpvc+JZwMQIL4OFDy3JXggaiYsmERw=
+			cQl+Fj5BeFl4Ftxyl5IcjI3iBC+EQznMPbAAC4h9LlQ=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DDRVT0b0CRFlZttuGwt5T7zYcvz8MOt4NlF8GXVzx9g=
+			VOpB2t1OkMtxf4JqGqpIFPwjyXnYENyolRXlVscwxPI=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -193,14 +193,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DDRVT0b0CRFlZttuGwt5T7zYcvz8MOt4NlF8GXVzx9g=
+			VOpB2t1OkMtxf4JqGqpIFPwjyXnYENyolRXlVscwxPI=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wBj/JIcQ15oEd6yr14qEsW+F9y67Np2XYHYQpnDyEEU=
+			n0O0hcUfcDpXhyG7uEzWvkFkdA803oUQGBiax7+qeiI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -214,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xn9V9+BlOLpk9pM4HoTpbVGHqBQmkaPzcFWhce352q4=
+			cc5AcOOQjSb35U16nvzG5+qV+n1x4BkSp/EyTIu2xAQ=
 			</data>
 		</dict>
 		<key>charonne_data.json</key>
