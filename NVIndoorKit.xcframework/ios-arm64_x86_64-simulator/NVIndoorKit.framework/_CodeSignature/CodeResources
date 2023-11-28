@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		+b908UVv4hec4QTb6ajv7nkAm80=
+		UwbGTFG3f7jIIEfi/Gf2ma8w1BA=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zj20YNFxUhdQjSZIV//61r/3mpk=
+		1pYTzvp0bPVKIziVt+4GBhRSh7o=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		+b908UVv4hec4QTb6ajv7nkAm80=
+		UwbGTFG3f7jIIEfi/Gf2ma8w1BA=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Qr0LYRAjZOqrU0R4drW77Lwuk0w=
+		SycdopXnNbqDVBptsDp2a+myo+U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Readme.md</key>
 		<data>
-		4FV6Hq/SFyKauiANJqDDAYXzHWM=
+		IdzFr+87139eOi6gFr88VXGoRkI=
 		</data>
 		<key>charonne_data.json</key>
 		<data>
@@ -137,7 +137,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cQl+Fj5BeFl4Ftxyl5IcjI3iBC+EQznMPbAAC4h9LlQ=
+			Um9UQWnpn7ZMurtO4yNxU6EX5ZbEMjgdVDwfkATZmvk=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -165,14 +165,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jPPniKJiKmnAhP1L5kcEoQvokSdDMPkYY2r83saY/Os=
+			WCJ0T0oEgI+vXsgd/eRlXphZZKADvVsoi1UEndqx6c0=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cQl+Fj5BeFl4Ftxyl5IcjI3iBC+EQznMPbAAC4h9LlQ=
+			Um9UQWnpn7ZMurtO4yNxU6EX5ZbEMjgdVDwfkATZmvk=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -200,7 +200,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n0O0hcUfcDpXhyG7uEzWvkFkdA803oUQGBiax7+qeiI=
+			aZ636hcGfiUKq7b0XNcK4jkjzXY+VGeZqQOEU3BY+AQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -214,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cc5AcOOQjSb35U16nvzG5+qV+n1x4BkSp/EyTIu2xAQ=
+			xn9V9+BlOLpk9pM4HoTpbVGHqBQmkaPzcFWhce352q4=
 			</data>
 		</dict>
 		<key>charonne_data.json</key>

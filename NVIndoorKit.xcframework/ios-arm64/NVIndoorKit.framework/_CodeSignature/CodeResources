@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		+b908UVv4hec4QTb6ajv7nkAm80=
+		UwbGTFG3f7jIIEfi/Gf2ma8w1BA=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		i89cl1UpDud9DBElDTGTPRcV5pE=
+		7bE32JoKBL4JoddaZN9DKcIXyAc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Readme.md</key>
 		<data>
-		4FV6Hq/SFyKauiANJqDDAYXzHWM=
+		IdzFr+87139eOi6gFr88VXGoRkI=
 		</data>
 		<key>charonne_data.json</key>
 		<data>
@@ -117,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cQl+Fj5BeFl4Ftxyl5IcjI3iBC+EQznMPbAAC4h9LlQ=
+			Um9UQWnpn7ZMurtO4yNxU6EX5ZbEMjgdVDwfkATZmvk=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KCwczy6DimLD2Bw6/cL7yZePPw1uf4e3dB6DZVHsttI=
+			Mu2VmdnOy+efKawrk9LwXCPh52qXORRXwvetROggB1s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -159,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cc5AcOOQjSb35U16nvzG5+qV+n1x4BkSp/EyTIu2xAQ=
+			xn9V9+BlOLpk9pM4HoTpbVGHqBQmkaPzcFWhce352q4=
 			</data>
 		</dict>
 		<key>charonne_data.json</key>
