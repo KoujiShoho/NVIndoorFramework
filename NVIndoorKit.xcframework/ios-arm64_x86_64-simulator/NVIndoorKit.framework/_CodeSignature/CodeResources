@@ -22,11 +22,15 @@
 		</data>
 		<key>Headers/NVIndoorKit-Swift.h</key>
 		<data>
-		KkFLRfCzflPsjFudRMsbrpewu7A=
+		rFCnFA5b1KkvYT5sgluLFB4oPTw=
 		</data>
 		<key>Headers/NVIndoorKit.h</key>
 		<data>
-		roinLESZvumfG5VxUJeKmXwIaaM=
+		/OKz05SREH4M031Gd8Heu7ePE80=
+		</data>
+		<key>Headers/filter.h</key>
+		<data>
+		Deq0T0kA+uBUH0I6aIOBAQpw4kc=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -34,11 +38,11 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		UwbGTFG3f7jIIEfi/Gf2ma8w1BA=
+		7KCA3/9PaGnoD0gYNjb7NFcoiyI=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		/MrUQF2NBZoJVcYk+nDoGBDfBS0=
+		5OOrblbGpxnwskkjqWWP0VnkI/Y=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,19 +50,19 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/MrUQF2NBZoJVcYk+nDoGBDfBS0=
+		5OOrblbGpxnwskkjqWWP0VnkI/Y=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1pYTzvp0bPVKIziVt+4GBhRSh7o=
+		saPeOVr4TzeYMbKpUvQwIoKB1fE=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		UwbGTFG3f7jIIEfi/Gf2ma8w1BA=
+		7KCA3/9PaGnoD0gYNjb7NFcoiyI=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		j2vxdG3Jn5ZP2sXC1y3vLTlbd/E=
+		KNLDkLvEmayCSLjsRzyNPJmbruQ=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,11 +70,11 @@
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		j2vxdG3Jn5ZP2sXC1y3vLTlbd/E=
+		KNLDkLvEmayCSLjsRzyNPJmbruQ=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SycdopXnNbqDVBptsDp2a+myo+U=
+		zK2C+Jbk4kGz0aOzPYfVz8CC41g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -83,6 +87,10 @@
 		<key>charonne_data.json</key>
 		<data>
 		25chEJWEBYDAeVPV5nyXlSiNeAU=
+		</data>
+		<key>fund_data.json</key>
+		<data>
+		DpmW2QF/an1Ul2lrWyE/2Tk/eKs=
 		</data>
 		<key>voltaire_data.json</key>
 		<data>
@@ -123,28 +131,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pu+whWM2oy+kBI7dIZ64Hsuh/bbhA0yIzuqn1IWhWDo=
+			rlaM1Z2g91ukcu1AHh1WyuSaCaFPtqgItMpfW9SzGdQ=
 			</data>
 		</dict>
 		<key>Headers/NVIndoorKit.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g4dPpPF3zJj6rqMLZMl/ebD3Pd2DO0oUg2rv+wqin9Q=
+			neG+GldZ5JA3fe5KQwCL+sdNqbmswcNtqbxJJQ5t7ig=
+			</data>
+		</dict>
+		<key>Headers/filter.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sbzepLC7z+jWNxT7kAU3sJzIaPjYwE9+vqBubvk1Qq0=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Um9UQWnpn7ZMurtO4yNxU6EX5ZbEMjgdVDwfkATZmvk=
+			4/dkvKb3u+8FIwoEb1ovY/p5qY66tMlQ9HQ17ZHHY88=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I2BJ+z9WFjYDBQi9FC14FnZ1xVieR8ONzrOAoOMzSi4=
+			cUPjcjMzYLXDRGveJkRSLOSfOTDxhSjBHFml2Cc816g=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -158,28 +173,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I2BJ+z9WFjYDBQi9FC14FnZ1xVieR8ONzrOAoOMzSi4=
+			cUPjcjMzYLXDRGveJkRSLOSfOTDxhSjBHFml2Cc816g=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WCJ0T0oEgI+vXsgd/eRlXphZZKADvVsoi1UEndqx6c0=
+			pdUXo2C54TT11qt5v16mx5HIJaJdTRIszlF8mY4+j+Y=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Um9UQWnpn7ZMurtO4yNxU6EX5ZbEMjgdVDwfkATZmvk=
+			4/dkvKb3u+8FIwoEb1ovY/p5qY66tMlQ9HQ17ZHHY88=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VOpB2t1OkMtxf4JqGqpIFPwjyXnYENyolRXlVscwxPI=
+			Ucvmrp5S4+UfvnCZWQuW2O5B1Xq01lXM0wJ5kFHs0Xo=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -193,14 +208,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VOpB2t1OkMtxf4JqGqpIFPwjyXnYENyolRXlVscwxPI=
+			Ucvmrp5S4+UfvnCZWQuW2O5B1Xq01lXM0wJ5kFHs0Xo=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aZ636hcGfiUKq7b0XNcK4jkjzXY+VGeZqQOEU3BY+AQ=
+			dRwKxd35P+dWSwgMOPuZpY+uxXQowPzT3qN4o/3MCiU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -222,6 +237,13 @@
 			<key>hash2</key>
 			<data>
 			cfwWxpFW9NknNIMFUK4F2VqzIUfHejQFhDBbknepnDE=
+			</data>
+		</dict>
+		<key>fund_data.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bPFIIU6M0IKE7ShpA8ZWgt99S+fn/Z2btH8sLd04nN4=
 			</data>
 		</dict>
 		<key>voltaire_data.json</key>

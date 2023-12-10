@@ -1,0 +1,1285 @@
+{
+    "category": [
+        {
+            "index": 0,
+            "name": "RDC",
+            "image": "OtherIcon",
+            "subCategory": [
+                {
+                    "index": 0,
+                    "name": "ACCUEIL",
+                    "image": "HomeIcon",
+                    "node": "reception"
+                },
+                {
+                    "index": 1,
+                    "name": "ENTRÉE PRINCIPALE",
+                    "image": "HomeIcon",
+                    "node": "mainEntrance"
+                },
+                {
+                    "index": 2,
+                    "name": "JARDIN",
+                    "image": "HomeIcon",
+                    "node": "node04"
+                },
+                {
+                    "index": 3,
+                    "name": "SORTIE DE SECOURS",
+                    "image": "HomeIcon",
+                    "node": "emergencyExit"
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "name": "ÉTAGE 1",
+            "image": "OtherIcon",
+            "subCategory": [
+                {
+                    "index": 0,
+                    "name": "BUREAU GAUCHE",
+                    "image": "HomeIcon",
+                    "node": "node13"
+                },
+                {
+                    "index": 1,
+                    "name": "BUREAU DROITE",
+                    "image": "HomeIcon",
+                    "node": "node16"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "name": "ÉTAGE 2",
+            "image": "OtherIcon",
+            "subCategory": [
+                {
+                    "index": 0,
+                    "name": "BUREAU GAUCHE",
+                    "image": "HomeIcon",
+                    "node": "node23"
+                },
+                {
+                    "index": 1,
+                    "name": "BUREAU DROITE",
+                    "image": "HomeIcon",
+                    "node": "node26"
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "name": "ÉTAGE 3",
+            "image": "OtherIcon",
+            "subCategory": [
+                {
+                    "index": 0,
+                    "name": "BUREAU GAUCHE",
+                    "image": "HomeIcon",
+                    "node": "node33"
+                },
+                {
+                    "index": 1,
+                    "name": "BUREAU DROITE",
+                    "image": "HomeIcon",
+                    "node": "node32"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "name": "ÉTAGE 4",
+            "image": "OtherIcon",
+            "subCategory": [
+                {
+                    "index": 0,
+                    "name": "BUREAU GAUCHE",
+                    "image": "HomeIcon",
+                    "node": "node43"
+                },
+                {
+                    "index": 1,
+                    "name": "BUREAU DROITE",
+                    "image": "HomeIcon",
+                    "node": "node46"
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "name": "ÉTAGE 5",
+            "image": "OtherIcon",
+            "subCategory": [
+                {
+                    "index": 0,
+                    "name": "BUREAU GAUCHE",
+                    "image": "HomeIcon",
+                    "node": "node53"
+                },
+                {
+                    "index": 1,
+                    "name": "BUREAU DROITE",
+                    "image": "HomeIcon",
+                    "node": "node56"
+                }
+            ]
+        }
+    ],
+    "grid": {
+        "numberOfFloor": 6,
+        "node": [
+            {
+                "name": "node01",
+                "access": {
+                    "x": 5,
+                    "y": -190
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "mainEntrance",
+                "access": {
+                    "x": 5,
+                    "y": -145
+                },
+                "position": {
+                    "x": 5,
+                    "y": -155
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "node02",
+                "access": {
+                    "x": 5,
+                    "y": -100
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "node03",
+                "access": {
+                    "x": 5,
+                    "y": -15
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "node04",
+                "access": {
+                    "x": 5,
+                    "y": 10
+                },
+                "position": {
+                    "x": 5,
+                    "y": 20
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "node05",
+                "access": {
+                    "x": 5,
+                    "y": 30
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "node06",
+                "access": {
+                    "x": 165,
+                    "y": 10
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "node07",
+                "access": {
+                    "x": 165,
+                    "y": -190
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "emergencyExit",
+                "access": {
+                    "x": 165,
+                    "y": -135
+                },
+                "position": {
+                    "x": 165,
+                    "y": -145
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "elevOut01",
+                "access": {
+                    "x": -70,
+                    "y": -15
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "node11",
+                "access": {
+                    "x": -80,
+                    "y": -80
+                },
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "name": "node12",
+                "access": {
+                    "x": -70,
+                    "y": -40
+                },
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "name": "elevOut11",
+                "access": {
+                    "x": -70,
+                    "y": -10
+                },
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "name": "elevOut12",
+                "access": {
+                    "x": -70,
+                    "y": -10
+                },
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "name": "node13",
+                "access": {
+                    "x": 70,
+                    "y": -40
+                },
+                "position": {
+                    "x": 70,
+                    "y": -50
+                },
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "name": "node15",
+                "access": {
+                    "x": -125,
+                    "y": -10
+                },
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "name": "node14",
+                "access": {
+                    "x": -125,
+                    "y": -40
+                },
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "name": "node16",
+                "access": {
+                    "x": -125,
+                    "y": 110
+                },
+                "position": {
+                    "x": -125,
+                    "y": 120
+                },
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "name": "stair1",
+                "access": {
+                    "x": -90,
+                    "y": -100
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "stair2",
+                "access": {
+                    "x": -90,
+                    "y": -160
+                },
+                "floor": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "name": "stair3",
+                "access": {
+                    "x": -50,
+                    "y": -160
+                },
+                "floor": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "name": "stair4",
+                "access": {
+                    "x": -50,
+                    "y": -80
+                },
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "name": "reception",
+                "access": {
+                    "x": 5,
+                    "y": -60
+                },
+                "position": {
+                    "x": -5,
+                    "y": -60
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "elevIn0",
+                "access": {
+                    "x": -70,
+                    "y": 40
+                },
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "name": "node21",
+                "access": {
+                    "x": -80,
+                    "y": -80
+                },
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "name": "node22",
+                "access": {
+                    "x": -70,
+                    "y": -40
+                },
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "name": "elevOut21",
+                "access": {
+                    "x": -70,
+                    "y": -10
+                },
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "name": "elevOut22",
+                "access": {
+                    "x": -70,
+                    "y": -10
+                },
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "name": "node23",
+                "access": {
+                    "x": 70,
+                    "y": -40
+                },
+                "position": {
+                    "x": 70,
+                    "y": -50
+                },
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "name": "node25",
+                "access": {
+                    "x": -125,
+                    "y": -10
+                },
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "name": "node24",
+                "access": {
+                    "x": -125,
+                    "y": -40
+                },
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "name": "node26",
+                "access": {
+                    "x": -125,
+                    "y": 110
+                },
+                "position": {
+                    "x": -125,
+                    "y": 120
+                },
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "name": "elevIn1",
+                "access": {
+                    "x": -70,
+                    "y": 40
+                },
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "name": "elevOut31",
+                "access": {
+                    "x": -70,
+                    "y": -10
+                },
+                "floor": [
+                    3
+                ]
+            },
+            {
+                "name": "node31",
+                "access": {
+                    "x": -125,
+                    "y": -10
+                },
+                "floor": [
+                    3
+                ]
+            },
+            {
+                "name": "node32",
+                "access": {
+                    "x": -125,
+                    "y": 10
+                },
+                "position": {
+                    "x": -125,
+                    "y": 20
+                },
+                "floor": [
+                    3
+                ]
+            },
+            {
+                "name": "node33",
+                "access": {
+                    "x": -30,
+                    "y": -10
+                },
+                "position": {
+                    "x": -20,
+                    "y": -10
+                },
+                "floor": [
+                    3
+                ]
+            },
+            {
+                "name": "elevIn2",
+                "access": {
+                    "x": -70,
+                    "y": 40
+                },
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "name": "node41",
+                "access": {
+                    "x": -80,
+                    "y": -80
+                },
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "name": "node42",
+                "access": {
+                    "x": -70,
+                    "y": -40
+                },
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "name": "elevOut41",
+                "access": {
+                    "x": -70,
+                    "y": -10
+                },
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "name": "elevOut42",
+                "access": {
+                    "x": -70,
+                    "y": -10
+                },
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "name": "node43",
+                "access": {
+                    "x": 70,
+                    "y": -40
+                },
+                "position": {
+                    "x": 70,
+                    "y": -50
+                },
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "name": "node45",
+                "access": {
+                    "x": -125,
+                    "y": -10
+                },
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "name": "node44",
+                "access": {
+                    "x": -125,
+                    "y": -40
+                },
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "name": "node46",
+                "access": {
+                    "x": -125,
+                    "y": 10
+                },
+                "position": {
+                    "x": -125,
+                    "y": 20
+                },
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "name": "elevIn3",
+                "access": {
+                    "x": -70,
+                    "y": 40
+                },
+                "floor": [
+                    3
+                ]
+            },
+            {
+                "name": "node51",
+                "access": {
+                    "x": -80,
+                    "y": -80
+                },
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "name": "node52",
+                "access": {
+                    "x": -70,
+                    "y": -40
+                },
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "name": "elevOut51",
+                "access": {
+                    "x": -70,
+                    "y": -10
+                },
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "name": "elevOut52",
+                "access": {
+                    "x": -70,
+                    "y": -10
+                },
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "name": "node53",
+                "access": {
+                    "x": -30,
+                    "y": -40
+                },
+                "position": {
+                    "x": -20,
+                    "y": -40
+                },
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "name": "node55",
+                "access": {
+                    "x": -125,
+                    "y": -10
+                },
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "name": "node54",
+                "access": {
+                    "x": -125,
+                    "y": -40
+                },
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "name": "node56",
+                "access": {
+                    "x": -125,
+                    "y": 30
+                },
+                "position": {
+                    "x": -125,
+                    "y": 50
+                },
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "name": "elevIn4",
+                "access": {
+                    "x": -70,
+                    "y": 40
+                },
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "name": "elevIn5",
+                "access": {
+                    "x": -70,
+                    "y": 40
+                },
+                "floor": [
+                    5
+                ]
+            }
+        ],
+        "edge": [
+            {
+                "startNode": "node01",
+                "endNode": "mainEntrance",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "mainEntrance",
+                "endNode": "node02",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "node02",
+                "endNode": "reception",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "reception",
+                "endNode": "node03",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "node03",
+                "endNode": "node04",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "node04",
+                "endNode": "node05",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "node02",
+                "endNode": "stair1",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "stair1",
+                "endNode": "stair2",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "stair2",
+                "endNode": "stair3",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "node04",
+                "endNode": "node06",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "node07",
+                "endNode": "emergencyExit",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "emergencyExit",
+                "endNode": "node06",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "elevOut01",
+                "endNode": "node03",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "elevOut01",
+                "endNode": "elevIn0",
+                "floor": [
+                    0
+                ]
+            },
+            {
+                "startNode": "elevIn1",
+                "endNode": "elevOut11",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "elevIn1",
+                "endNode": "elevOut12",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "stair3",
+                "endNode": "stair4",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "stair4",
+                "endNode": "node11",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "node11",
+                "endNode": "node12",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "node13",
+                "endNode": "node12",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "node14",
+                "endNode": "node12",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "node14",
+                "endNode": "node15",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "node15",
+                "endNode": "node16",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "node12",
+                "endNode": "elevOut11",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "elevOut12",
+                "endNode": "node15",
+                "floor": [
+                    1
+                ]
+            },
+            {
+                "startNode": "elevIn2",
+                "endNode": "elevOut21",
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "startNode": "elevIn2",
+                "endNode": "elevOut22",
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "startNode": "node21",
+                "endNode": "node22",
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "startNode": "node23",
+                "endNode": "node22",
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "startNode": "node24",
+                "endNode": "node22",
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "startNode": "node24",
+                "endNode": "node25",
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "startNode": "node25",
+                "endNode": "node26",
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "startNode": "node22",
+                "endNode": "elevOut21",
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "startNode": "elevOut22",
+                "endNode": "node25",
+                "floor": [
+                    2
+                ]
+            },
+            {
+                "startNode": "elevIn3",
+                "endNode": "elevOut31",
+                "floor": [
+                    3
+                ]
+            },
+            {
+                "startNode": "elevOut31",
+                "endNode": "node31",
+                "floor": [
+                    3
+                ]
+            },
+            {
+                "startNode": "node31",
+                "endNode": "node32",
+                "floor": [
+                    3
+                ]
+            },
+            {
+                "startNode": "elevOut31",
+                "endNode": "node33",
+                "floor": [
+                    3
+                ]
+            },
+            {
+                "startNode": "elevIn4",
+                "endNode": "elevOut41",
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "startNode": "elevIn4",
+                "endNode": "elevOut42",
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "startNode": "node41",
+                "endNode": "node42",
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "startNode": "node43",
+                "endNode": "node42",
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "startNode": "node44",
+                "endNode": "node42",
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "startNode": "node44",
+                "endNode": "node45",
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "startNode": "node45",
+                "endNode": "node46",
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "startNode": "node42",
+                "endNode": "elevOut41",
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "startNode": "elevOut42",
+                "endNode": "node45",
+                "floor": [
+                    4
+                ]
+            },
+            {
+                "startNode": "elevIn5",
+                "endNode": "elevOut51",
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "startNode": "elevIn5",
+                "endNode": "elevOut52",
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "startNode": "node51",
+                "endNode": "node52",
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "startNode": "node53",
+                "endNode": "node52",
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "startNode": "node54",
+                "endNode": "node52",
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "startNode": "node54",
+                "endNode": "node55",
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "startNode": "node55",
+                "endNode": "node56",
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "startNode": "node52",
+                "endNode": "elevOut51",
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "startNode": "elevOut52",
+                "endNode": "node55",
+                "floor": [
+                    5
+                ]
+            },
+            {
+                "startNode": "elevIn0",
+                "endNode": "elevIn1",
+                "floor": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "startNode": "elevIn1",
+                "endNode": "elevIn2",
+                "floor": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "startNode": "elevIn2",
+                "endNode": "elevIn3",
+                "floor": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "startNode": "elevIn3",
+                "endNode": "elevIn4",
+                "floor": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "startNode": "elevIn4",
+                "endNode": "elevIn5",
+                "floor": [
+                    4,
+                    5
+                ]
+            }
+        ],
+        "floorConnection": [
+            {
+                "name": "stair1",
+                "upTo": "stair2"
+            },
+            {
+                "name": "stair2",
+                "downTo": "stair1",
+                "upTo": "stair3"
+            },
+            {
+                "name": "stair3",
+                "downTo": "stair2",
+                "upTo": "stair4"
+            },
+            {
+                "name": "stair4",
+                "downTo": "stair3"
+            },
+            {
+                "name": "elevOut01",
+                "upTo": "elevIn0"
+            },
+            {
+                "name": "elevOut11",
+                "downTo": "elevIn0"
+            },
+            {
+                "name": "elevOut12",
+                "downTo": "elevIn0"
+            },
+            {
+                "name": "elevOut11",
+                "upTo": "elevIn1"
+            },
+            {
+                "name": "elevOut12",
+                "upTo": "elevIn1"
+            },
+            {
+                "name": "elevOut21",
+                "downTo": "elevIn1"
+            },
+            {
+                "name": "elevOut22",
+                "downTo": "elevIn1"
+            },
+            {
+                "name": "elevOut21",
+                "upTo": "elevIn2"
+            },
+            {
+                "name": "elevOut22",
+                "upTo": "elevIn2"
+            },
+            {
+                "name": "elevOut31",
+                "downTo": "elevIn2"
+            },
+            {
+                "name": "elevOut31",
+                "upTo": "elevIn3"
+            },
+            {
+                "name": "elevOut41",
+                "downTo": "elevIn3"
+            },
+            {
+                "name": "elevOut42",
+                "downTo": "elevIn3"
+            },
+            {
+                "name": "elevOut41",
+                "upTo": "elevIn4"
+            },
+            {
+                "name": "elevOut42",
+                "upTo": "elevIn4"
+            },
+            {
+                "name": "elevOut51",
+                "downTo": "elevIn4"
+            },
+            {
+                "name": "elevOut52",
+                "downTo": "elevIn4"
+            }
+        ]
+    }
+}

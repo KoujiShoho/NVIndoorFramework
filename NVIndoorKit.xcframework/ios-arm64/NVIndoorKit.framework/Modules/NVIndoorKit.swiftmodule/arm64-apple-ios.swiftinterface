@@ -38,6 +38,18 @@ public enum IndoorPlaceType : Swift.String {
     get
   }
 }
+public protocol NVIndoorTransitionServiceDelegate : AnyObject {
+  func indoorTransitionService(_ service: NVIndoorKit.NVIndoorTransitionService, onDiscover place: NVIndoorKit.IndoorPlaceId)
+  func indoorTransitionService(_ service: NVIndoorKit.NVIndoorTransitionService, onEnter place: NVIndoorKit.IndoorPlaceId, at location: NVDirectionKit.NVibeIndoorLocation)
+  func indoorTransitionService(_ service: NVIndoorKit.NVIndoorTransitionService, onExit place: NVIndoorKit.IndoorPlaceId, at location: NVDirectionKit.NVibeLocation)
+}
+@objc open class NVIndoorTransitionService : ObjectiveC.NSObject {
+  public init(delegate: (any NVIndoorKit.NVIndoorTransitionServiceDelegate)? = nil)
+  public func startUpdateTransition(for step: NVDirectionKit.NVibeMultimodalStep, state: NVIndoorKit.ZoneState)
+  public func stopUpdateTransition()
+  public func isUpdateTransitionRunning() -> Swift.Bool
+  @objc deinit
+}
 @_hasMissingDesignatedInitializers public class Particle {
   @objc deinit
 }
@@ -148,6 +160,7 @@ public class Wall {
 @_hasMissingDesignatedInitializers public class IndoorMap {
   public var floors: Swift.Int
   public var walls: [[NVIndoorKit.Wall]]
+  public var clusters: [[NVIndoorKit.Cluster]]
   public var stairs: [[NVIndoorKit.Stair]]
   public var elevators: [NVIndoorKit.Wall]
   @objc deinit

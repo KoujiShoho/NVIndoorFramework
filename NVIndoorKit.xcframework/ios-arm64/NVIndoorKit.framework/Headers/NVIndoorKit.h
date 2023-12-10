@@ -14,3 +14,5 @@ FOUNDATION_EXPORT double NVIndoorKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char NVIndoorKitVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <NVIndoorKit/PublicHeader.h>
+
+#import <NVIndoorKit/filter.h>
