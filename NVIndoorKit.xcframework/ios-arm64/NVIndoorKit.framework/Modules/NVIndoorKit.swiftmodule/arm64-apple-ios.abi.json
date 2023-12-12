@@ -29055,175 +29055,175 @@
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4977,
+      "offset": 5047,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5009,
+      "offset": 5079,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5068,
+      "offset": 5138,
       "length": 5,
       "value": "\"{\n\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5089,
+      "offset": 5159,
       "length": 104,
       "value": "\"    \"startLocation\" : [\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5151,
+      "offset": 5221,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5190,
+      "offset": 5260,
       "length": 1,
       "value": "\"],\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5209,
+      "offset": 5279,
       "length": 98,
       "value": "\"    \"endLocation\" : [\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5267,
+      "offset": 5337,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5304,
+      "offset": 5374,
       "length": 1,
       "value": "\"],\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5323,
+      "offset": 5393,
       "length": 97,
       "value": "\"    \"geometry\" : \"\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "FloatLiteral",
-      "offset": 5395,
+      "offset": 5465,
       "length": 3,
       "value": "1e6"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5416,
+      "offset": 5486,
       "length": 1,
       "value": "\"\",\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5436,
+      "offset": 5506,
       "length": 56,
       "value": "\"    \"floorInstruction\" : \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5490,
+      "offset": 5560,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5508,
+      "offset": 5578,
       "length": 33,
       "value": "\"    \"distance\" : \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5539,
+      "offset": 5609,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5557,
+      "offset": 5627,
       "length": 37,
       "value": "\"    \"maneuver\" : \"\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5590,
+      "offset": 5660,
       "length": 1,
       "value": "\"\",\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5610,
+      "offset": 5680,
       "length": 39,
       "value": "\"    \"direction\" : \"\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5645,
+      "offset": 5715,
       "length": 1,
       "value": "\"\",\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5665,
+      "offset": 5735,
       "length": 43,
       "value": "\"    \"instruction\" : \"\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5704,
+      "offset": 5774,
       "length": 1,
       "value": "\"\",\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5724,
+      "offset": 5794,
       "length": 30,
       "value": "\"    \"heading\" : \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5753,
+      "offset": 5823,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/IndoorRouteManager\/IndoorRouteManager.swift",
       "kind": "StringLiteral",
-      "offset": 5770,
+      "offset": 5840,
       "length": 5,
       "value": "\"}\n\""
     },
@@ -30329,224 +30329,217 @@
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 9161,
+      "offset": 9171,
       "length": 79,
       "value": "\"Tournez à gauche et appelez l'ascenseur à l'aide du bouton situé à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 9249,
+      "offset": 9259,
       "length": 9,
       "value": "\"ic_left\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 9308,
+      "offset": 9318,
       "length": 5,
       "value": "250.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 9326,
+      "offset": 9336,
       "length": 5,
       "value": "290.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 9481,
+      "offset": 9491,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 9595,
+      "offset": 9615,
       "length": 79,
       "value": "\"Tournez à droite et appelez l'ascenseur à l'aide du bouton situé à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 9683,
+      "offset": 9703,
       "length": 10,
       "value": "\"ic_right\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 9742,
+      "offset": 9762,
       "length": 3,
       "value": "110"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 9757,
+      "offset": 9777,
       "length": 3,
       "value": "250"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 10011,
+      "offset": 10031,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 10053,
+      "offset": 10073,
       "length": 62,
       "value": "\" et appelez l'ascenseur à l'aide du bouton situé à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 10309,
+      "offset": 10359,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 10430,
+      "offset": 10486,
       "length": 82,
       "value": "\"Continuez tout droit et appelez l'ascenseur à l'aide du bouton situé à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 10521,
+      "offset": 10577,
       "length": 13,
       "value": "\"ic_straight\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 10674,
+      "offset": 10730,
       "length": 4,
       "value": "70.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 10691,
+      "offset": 10747,
       "length": 5,
       "value": "110.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 10846,
+      "offset": 10902,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 10959,
+      "offset": 11015,
       "length": 19,
       "value": "\"Tournez à gauche\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 10987,
+      "offset": 11043,
       "length": 9,
       "value": "\"ic_left\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 11046,
+      "offset": 11102,
       "length": 5,
       "value": "250.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 11064,
+      "offset": 11120,
       "length": 5,
       "value": "290.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11219,
+      "offset": 11275,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 11333,
+      "offset": 11389,
       "length": 19,
       "value": "\"Tournez à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 11361,
+      "offset": 11417,
       "length": 10,
       "value": "\"ic_right\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11420,
+      "offset": 11476,
       "length": 3,
       "value": "110"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11435,
+      "offset": 11491,
       "length": 3,
       "value": "250"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11505,
+      "offset": 11561,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11573,
+      "offset": 11629,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11619,
+      "offset": 11675,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11687,
+      "offset": 11743,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11750,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11813,
+      "offset": 11806,
       "length": 1,
       "value": "1"
     },
@@ -30560,952 +30553,959 @@
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11928,
+      "offset": 11925,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11983,
+      "offset": 11984,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 12057,
+      "offset": 12039,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 12091,
+      "offset": 12113,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 12231,
+      "offset": 12147,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12287,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 12249,
+      "offset": 12305,
       "length": 8,
       "value": "\"elevIn\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 12307,
+      "offset": 12363,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 12340,
+      "offset": 12396,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 12591,
+      "offset": 12647,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 12717,
+      "offset": 12773,
       "length": 120,
       "value": "\"Entrez dans l'ascenseur et descendez à l'étage \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 12784,
+      "offset": 12840,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 12793,
+      "offset": 12849,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 12796,
+      "offset": 12852,
       "length": 2,
       "value": "\" à l'aide des boutons situés à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 12846,
+      "offset": 12902,
       "length": 13,
       "value": "\"ic_elevator\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 12971,
+      "offset": 13027,
       "length": 120,
       "value": "\"Entrez dans l'ascenseur et descendez à l'étage \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 13038,
+      "offset": 13094,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 13047,
+      "offset": 13103,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 13050,
+      "offset": 13106,
       "length": 2,
       "value": "\" à l'aide des boutons situés à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 13394,
+      "offset": 13450,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 13518,
+      "offset": 13574,
       "length": 117,
       "value": "\"Entrez dans l'ascenseur et montez à l'étage \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 13582,
+      "offset": 13638,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 13591,
+      "offset": 13647,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 13594,
+      "offset": 13650,
       "length": 2,
       "value": "\" à l'aide des boutons situés à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 13644,
+      "offset": 13700,
       "length": 13,
       "value": "\"ic_elevator\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 13769,
+      "offset": 13825,
       "length": 117,
       "value": "\"Entrez dans l'ascenseur et montez à l'étage \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 13833,
+      "offset": 13889,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 13842,
+      "offset": 13898,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 13845,
+      "offset": 13901,
       "length": 2,
       "value": "\" à l'aide des boutons situés à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 14127,
+      "offset": 14183,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 14248,
+      "offset": 14309,
       "length": 23,
       "value": "\"Sortez de l'ascenseur\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 14280,
+      "offset": 14341,
       "length": 13,
       "value": "\"ic_elevator\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 14455,
+      "offset": 14516,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 14487,
+      "offset": 14548,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 14532,
+      "offset": 14593,
       "length": 4,
       "value": "70.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 14549,
+      "offset": 14610,
       "length": 5,
       "value": "110.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 14613,
+      "offset": 14674,
       "length": 7,
       "value": "\"stair\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 14670,
+      "offset": 14731,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 14859,
+      "offset": 14920,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 14978,
+      "offset": 15039,
       "length": 46,
       "value": "\"Tournez à gauche et descendez les escaliers\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 15033,
+      "offset": 15094,
       "length": 10,
       "value": "\"ic_stair\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 15099,
+      "offset": 15160,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 15286,
+      "offset": 15347,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 15403,
+      "offset": 15464,
       "length": 43,
       "value": "\"Tournez à gauche et montez les escaliers\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 15455,
+      "offset": 15516,
       "length": 10,
       "value": "\"ic_stair\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 15652,
+      "offset": 15713,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 15765,
+      "offset": 15826,
       "length": 19,
       "value": "\"Tournez à gauche\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 15793,
+      "offset": 15854,
       "length": 9,
       "value": "\"ic_left\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 16011,
+      "offset": 16072,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 16124,
+      "offset": 16185,
       "length": 19,
       "value": "\"Tournez à gauche\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 16152,
+      "offset": 16213,
       "length": 9,
       "value": "\"ic_left\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 16229,
+      "offset": 16290,
       "length": 5,
       "value": "250.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 16247,
+      "offset": 16308,
       "length": 5,
       "value": "290.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 16311,
+      "offset": 16372,
       "length": 7,
       "value": "\"stair\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 16368,
+      "offset": 16429,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 16557,
+      "offset": 16618,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 16677,
+      "offset": 16738,
       "length": 46,
       "value": "\"Tournez à droite et descendez les escaliers\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 16732,
+      "offset": 16793,
       "length": 10,
       "value": "\"ic_stair\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 16798,
+      "offset": 16859,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 16985,
+      "offset": 17046,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 17103,
+      "offset": 17164,
       "length": 43,
       "value": "\"Tournez à droite et montez les escaliers\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 17155,
+      "offset": 17216,
       "length": 10,
       "value": "\"ic_stair\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 17352,
+      "offset": 17413,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 17466,
+      "offset": 17527,
       "length": 19,
       "value": "\"Tournez à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 17494,
+      "offset": 17555,
       "length": 10,
       "value": "\"ic_right\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 17713,
+      "offset": 17774,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 17827,
+      "offset": 17888,
       "length": 19,
       "value": "\"Tournez à droite\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 17855,
+      "offset": 17916,
       "length": 10,
       "value": "\"ic_right\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 17932,
+      "offset": 17993,
       "length": 3,
       "value": "110"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 17947,
+      "offset": 18008,
       "length": 3,
       "value": "250"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 18009,
+      "offset": 18070,
       "length": 7,
       "value": "\"stair\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 18066,
+      "offset": 18127,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 18255,
+      "offset": 18316,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 18378,
+      "offset": 18439,
       "length": 49,
       "value": "\"Continuez tout droit et descendez les escaliers\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 18436,
+      "offset": 18497,
       "length": 10,
       "value": "\"ic_stair\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 18502,
+      "offset": 18563,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 18689,
+      "offset": 18750,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 18810,
+      "offset": 18871,
       "length": 46,
       "value": "\"Continuez tout droit et montez les escaliers\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 18865,
+      "offset": 18926,
       "length": 10,
       "value": "\"ic_stair\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 18979,
+      "offset": 19040,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19047,
+      "offset": 19108,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19093,
+      "offset": 19154,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19161,
+      "offset": 19222,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19224,
+      "offset": 19285,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19287,
+      "offset": 19348,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19343,
+      "offset": 19404,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19402,
+      "offset": 19463,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19457,
+      "offset": 19518,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19531,
+      "offset": 19592,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19565,
+      "offset": 19626,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19701,
+      "offset": 19762,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19769,
+      "offset": 19830,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19815,
+      "offset": 19876,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19883,
+      "offset": 19944,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 19946,
+      "offset": 20007,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 20009,
+      "offset": 20070,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 20065,
+      "offset": 20126,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 20124,
+      "offset": 20185,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 20179,
+      "offset": 20240,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 20249,
+      "offset": 20310,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 20283,
+      "offset": 20344,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 20418,
+      "offset": 20479,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 20454,
+      "offset": 20515,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 20485,
+      "offset": 20546,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 20520,
+      "offset": 20581,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 21521,
+      "offset": 21582,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 21563,
+      "offset": 21624,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 21601,
+      "offset": 21662,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 21639,
+      "offset": 21700,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Dictionary",
-      "offset": 21679,
+      "offset": 21740,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 21717,
+      "offset": 21778,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 21795,
+      "offset": 21856,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 21833,
+      "offset": 21894,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 21865,
+      "offset": 21926,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 21895,
+      "offset": 21956,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "BooleanLiteral",
-      "offset": 22171,
+      "offset": 22232,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 22854,
+      "offset": 22915,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 22890,
+      "offset": 22951,
       "length": 7,
       "value": "\"elev2\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "BooleanLiteral",
-      "offset": 23013,
+      "offset": 23074,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "BooleanLiteral",
-      "offset": 23039,
+      "offset": 23100,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 23484,
+      "offset": 23545,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "BooleanLiteral",
-      "offset": 23505,
+      "offset": 23566,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "BooleanLiteral",
-      "offset": 23531,
+      "offset": 23592,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "BooleanLiteral",
-      "offset": 23964,
+      "offset": 24025,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 24172,
+      "offset": 24233,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "BooleanLiteral",
-      "offset": 25180,
+      "offset": 25241,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "BooleanLiteral",
-      "offset": 25225,
+      "offset": 25286,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "IntegerLiteral",
-      "offset": 25351,
+      "offset": 25412,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 25387,
+      "offset": 25448,
       "length": 7,
       "value": "\"elev2\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "BooleanLiteral",
-      "offset": 25761,
+      "offset": 25822,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "BooleanLiteral",
-      "offset": 25799,
+      "offset": 25860,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "StringLiteral",
-      "offset": 26197,
+      "offset": 26258,
       "length": 7,
       "value": "\"node0\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 26402,
+      "offset": 26463,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 26433,
+      "offset": 26494,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "FloatLiteral",
-      "offset": 26464,
+      "offset": 26525,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 26650,
+      "offset": 26711,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/DataManager\/Model\/IndoorMap.swift",
       "kind": "Array",
-      "offset": 26686,
+      "offset": 26747,
       "length": 2,
       "value": "[]"
     },
