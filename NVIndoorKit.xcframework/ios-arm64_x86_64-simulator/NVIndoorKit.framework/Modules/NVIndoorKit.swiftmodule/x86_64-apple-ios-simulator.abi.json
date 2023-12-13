@@ -15244,854 +15244,868 @@
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8208,
+      "offset": 7999,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8028,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8296,
       "length": 3,
       "value": "-70"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8216,
+      "offset": 8304,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 13434,
+      "offset": 13548,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 13477,
+      "offset": 13591,
       "length": 4,
       "value": "-180"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 13537,
+      "offset": 13651,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 13727,
+      "offset": 13841,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 13773,
+      "offset": 13887,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 14082,
+      "offset": 14196,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 14131,
+      "offset": 14245,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 14185,
+      "offset": 14299,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 14236,
+      "offset": 14350,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 14521,
+      "offset": 14635,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 15162,
+      "offset": 15276,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 15205,
+      "offset": 15319,
       "length": 4,
       "value": "-180"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 15265,
+      "offset": 15379,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 15455,
+      "offset": 15569,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 15501,
+      "offset": 15615,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 15810,
+      "offset": 15924,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 15859,
+      "offset": 15973,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 15913,
+      "offset": 16027,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 15964,
+      "offset": 16078,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 18253,
+      "offset": 18367,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 18381,
+      "offset": 18495,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 18707,
+      "offset": 18821,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 18750,
+      "offset": 18864,
       "length": 6,
       "value": "111132"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 18887,
+      "offset": 19001,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 18930,
+      "offset": 19044,
       "length": 6,
       "value": "111132"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 19418,
+      "offset": 19532,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 19843,
+      "offset": 19957,
       "length": 4,
       "value": "-3.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 19852,
+      "offset": 19966,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 22117,
+      "offset": 22231,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 22193,
+      "offset": 22307,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "Array",
-      "offset": 22354,
+      "offset": 22468,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 22419,
+      "offset": 22533,
       "length": 5,
       "value": "\"...\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 22502,
+      "offset": 22616,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 22578,
+      "offset": 22692,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 23042,
+      "offset": 23156,
       "length": 4,
       "value": "-3.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 23051,
+      "offset": 23165,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 23086,
+      "offset": 23200,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 23125,
+      "offset": 23239,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "Array",
-      "offset": 23334,
+      "offset": 23448,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 23399,
+      "offset": 23513,
       "length": 5,
       "value": "\"...\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 24163,
+      "offset": 24277,
       "length": 4,
       "value": "-3.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 24172,
+      "offset": 24286,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 24207,
+      "offset": 24321,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 24246,
+      "offset": 24360,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 24961,
+      "offset": 25075,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 25019,
+      "offset": 25133,
       "length": 40,
       "value": "\"all particles have been killed by zone\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 25331,
+      "offset": 25445,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 25643,
+      "offset": 25757,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 25761,
+      "offset": 25875,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 25920,
+      "offset": 26034,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26227,
+      "offset": 26341,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26234,
+      "offset": 26348,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26243,
+      "offset": 26357,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26250,
+      "offset": 26364,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26259,
+      "offset": 26373,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26266,
+      "offset": 26380,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26275,
+      "offset": 26389,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26282,
+      "offset": 26396,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 26485,
+      "offset": 26599,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 26515,
+      "offset": 26629,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26640,
+      "offset": 26754,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26670,
+      "offset": 26784,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26781,
+      "offset": 26895,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 26905,
+      "offset": 27019,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 27030,
+      "offset": 27144,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 27191,
+      "offset": 27305,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 27307,
+      "offset": 27421,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 27679,
+      "offset": 27793,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 27695,
+      "offset": 27809,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 27711,
+      "offset": 27825,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 27734,
+      "offset": 27848,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 27950,
+      "offset": 28064,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 27978,
+      "offset": 28092,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 28004,
+      "offset": 28118,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 28354,
+      "offset": 28468,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 29098,
+      "offset": 29212,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 29714,
+      "offset": 29828,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 30172,
+      "offset": 30286,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 30200,
+      "offset": 30314,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 30582,
+      "offset": 30696,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 30600,
+      "offset": 30714,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 30701,
+      "offset": 30815,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 30825,
+      "offset": 30939,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 30934,
+      "offset": 31048,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 31058,
+      "offset": 31172,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 31085,
+      "offset": 31199,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "Array",
-      "offset": 31289,
+      "offset": 31403,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 31374,
+      "offset": 31488,
       "length": 5,
       "value": "\"...\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 31441,
+      "offset": 31555,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 31492,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 31498,
-      "length": 5,
-      "value": "100.0"
-    },
-    {
-      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 31546,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 31552,
-      "length": 5,
-      "value": "100.0"
-    },
-    {
-      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 31600,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
-      "kind": "FloatLiteral",
       "offset": 31606,
-      "length": 5,
-      "value": "100.0"
+      "length": 3,
+      "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 31654,
-      "length": 3,
-      "value": "0.0"
+      "offset": 31612,
+      "length": 5,
+      "value": "100.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
       "offset": 31660,
-      "length": 5,
-      "value": "100.0"
+      "length": 3,
+      "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 31708,
-      "length": 3,
-      "value": "0.0"
+      "offset": 31666,
+      "length": 5,
+      "value": "100.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
       "offset": 31714,
-      "length": 5,
-      "value": "100.0"
+      "length": 3,
+      "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 31762,
-      "length": 3,
-      "value": "0.0"
+      "offset": 31720,
+      "length": 5,
+      "value": "100.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
       "offset": 31768,
-      "length": 5,
-      "value": "100.0"
+      "length": 3,
+      "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 31816,
-      "length": 3,
-      "value": "0.0"
+      "offset": 31774,
+      "length": 5,
+      "value": "100.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
       "offset": 31822,
-      "length": 5,
-      "value": "100.0"
+      "length": 3,
+      "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 31870,
-      "length": 3,
-      "value": "0.0"
+      "offset": 31828,
+      "length": 5,
+      "value": "100.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
       "offset": 31876,
-      "length": 5,
-      "value": "100.0"
+      "length": 3,
+      "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 31924,
-      "length": 3,
-      "value": "0.0"
+      "offset": 31882,
+      "length": 5,
+      "value": "100.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
       "offset": 31930,
-      "length": 5,
-      "value": "100.0"
-    },
-    {
-      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 31979,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 31985,
+      "offset": 31936,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "FloatLiteral",
-      "offset": 32477,
+      "offset": 31984,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 31990,
+      "length": 5,
+      "value": "100.0"
+    },
+    {
+      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 32038,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 32044,
+      "length": 5,
+      "value": "100.0"
+    },
+    {
+      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 32093,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 32099,
+      "length": 5,
+      "value": "100.0"
+    },
+    {
+      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 32591,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 32502,
+      "offset": 32616,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 32575,
+      "offset": 32689,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 36196,
+      "offset": 36310,
       "length": 65,
       "value": "\"===============================================================\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 36280,
+      "offset": 36394,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 36323,
+      "offset": 36437,
       "length": 103,
       "value": "\"Particle \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 36337,
+      "offset": 36451,
       "length": 1,
       "value": "\" : [\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 36368,
+      "offset": 36482,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 36398,
+      "offset": 36512,
       "length": 1,
       "value": "\"] \""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 36425,
+      "offset": 36539,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/ParticleFilterManager\/ParticleFilterManager.swift",
       "kind": "StringLiteral",
-      "offset": 36452,
+      "offset": 36566,
       "length": 65,
       "value": "\"===============================================================\""
     },
