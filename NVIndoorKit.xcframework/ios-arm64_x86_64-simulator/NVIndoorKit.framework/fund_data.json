@@ -144,11 +144,11 @@
                 "name": "mainEntrance",
                 "access": {
                     "x": 5,
-                    "y": -145
+                    "y": -160
                 },
                 "position": {
                     "x": 5,
-                    "y": -155
+                    "y": -170
                 },
                 "floor": [
                     0
