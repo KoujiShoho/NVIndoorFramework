@@ -16399,98 +16399,105 @@
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "StringLiteral",
-      "offset": 7982,
+      "offset": 7858,
+      "length": 48,
+      "value": "\"This indoor place is not equipped with beacons\""
+    },
+    {
+      "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 8062,
       "length": 48,
       "value": "\"This indoor place is not equipped with beacons\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10305,
+      "offset": 10385,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10365,
+      "offset": 10445,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10546,
+      "offset": 10626,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10599,
+      "offset": 10679,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10627,
+      "offset": 10707,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10767,
+      "offset": 10847,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10795,
+      "offset": 10875,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "StringLiteral",
-      "offset": 11442,
+      "offset": 11522,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "StringLiteral",
-      "offset": 11474,
+      "offset": 11554,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "StringLiteral",
-      "offset": 11514,
+      "offset": 11594,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "StringLiteral",
-      "offset": 11555,
+      "offset": 11635,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "StringLiteral",
-      "offset": 11595,
+      "offset": 11675,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Manager\/LocationManager\/LocationManager.swift",
       "kind": "StringLiteral",
-      "offset": 11651,
+      "offset": 11731,
       "length": 5,
       "value": "\"tab\""
     },
@@ -29496,196 +29503,196 @@
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "IntegerLiteral",
-      "offset": 5026,
+      "offset": 5024,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 5101,
+      "offset": 5099,
       "length": 40,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 5121,
+      "offset": 5119,
       "length": 1,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 5140,
+      "offset": 5138,
       "length": 59,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 5268,
+      "offset": 5266,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 5288,
+      "offset": 5286,
       "length": 1,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 5305,
+      "offset": 5303,
       "length": 55,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "IntegerLiteral",
-      "offset": 5488,
+      "offset": 5486,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "IntegerLiteral",
-      "offset": 5502,
+      "offset": 5500,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 6001,
+      "offset": 5999,
       "length": 13,
       "value": "\"8FW4R8H9+MJ\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 6327,
+      "offset": 6325,
       "length": 24,
       "value": "\"BeaconFVH:mainEntrance\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "FloatLiteral",
-      "offset": 6396,
+      "offset": 6394,
       "length": 13,
       "value": "48.8292056625"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "FloatLiteral",
-      "offset": 6422,
+      "offset": 6420,
       "length": 18,
       "value": "2.3191323374999997"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "FloatLiteral",
-      "offset": 6484,
+      "offset": 6482,
       "length": 13,
       "value": "48.8292186125"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "FloatLiteral",
-      "offset": 6510,
+      "offset": 6508,
       "length": 18,
       "value": "2.3191427499999997"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 6584,
+      "offset": 6582,
       "length": 18,
       "value": "\"BeaconFVH:node53\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "FloatLiteral",
-      "offset": 6646,
+      "offset": 6644,
       "length": 13,
       "value": "48.8291705125"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "FloatLiteral",
-      "offset": 6672,
+      "offset": 6670,
       "length": 11,
       "value": "2.319104075"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "IntegerLiteral",
-      "offset": 6799,
+      "offset": 6797,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "IntegerLiteral",
-      "offset": 6813,
+      "offset": 6811,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 7408,
+      "offset": 7406,
       "length": 6,
       "value": "\"FVH:\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "StringLiteral",
-      "offset": 7529,
+      "offset": 7527,
       "length": 6,
       "value": "\"FVH:\""
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "FloatLiteral",
-      "offset": 7580,
+      "offset": 7578,
       "length": 13,
       "value": "48.8292056625"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "FloatLiteral",
-      "offset": 7606,
+      "offset": 7604,
       "length": 18,
       "value": "2.3191323374999997"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "IntegerLiteral",
-      "offset": 7634,
+      "offset": 7632,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "IntegerLiteral",
-      "offset": 7750,
+      "offset": 7748,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "IntegerLiteral",
-      "offset": 7764,
+      "offset": 7762,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/macpron-vibe\/Desktop\/Application\/NVIndoorKit\/Sources\/NVIndoorKit\/Utils\/Extension\/NVibeMultimodalRoute.swift",
       "kind": "IntegerLiteral",
-      "offset": 7965,
+      "offset": 7963,
       "length": 1,
       "value": "0"
     },

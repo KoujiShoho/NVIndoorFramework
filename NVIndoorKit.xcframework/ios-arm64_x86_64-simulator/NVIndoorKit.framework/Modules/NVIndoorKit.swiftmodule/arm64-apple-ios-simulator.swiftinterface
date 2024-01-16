@@ -87,6 +87,7 @@ public protocol IndoorLocationDebugDelegate : AnyObject {
   public var startLocation: NVDirectionKit.NVibeIndoorLocation
   public var endLocation: NVDirectionKit.NVibeIndoorLocation
   public var steps: [NVIndoorKit.NVibeIndoorStep]
+  public func getGeometry() -> [CoreLocation.CLLocationCoordinate2D]
   @objc deinit
 }
 open class NVibeIndoorStep {
