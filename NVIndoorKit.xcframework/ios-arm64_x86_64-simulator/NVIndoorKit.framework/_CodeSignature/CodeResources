@@ -22,11 +22,11 @@
 		</data>
 		<key>Headers/NVIndoorKit-Swift.h</key>
 		<data>
-		rFCnFA5b1KkvYT5sgluLFB4oPTw=
+		oMfwvjCy6W6ZQ14LSBRjoF4Ycn8=
 		</data>
 		<key>Headers/NVIndoorKit.h</key>
 		<data>
-		/OKz05SREH4M031Gd8Heu7ePE80=
+		5PB/Jqd/iflzPs5iNj2ZyzQwfMc=
 		</data>
 		<key>Headers/filter.h</key>
 		<data>
@@ -34,47 +34,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		52yHa6uP6d7QHKl56XwIn+aIDyY=
+		/0OxQHfVIij4byEpQ9XKH5ls+WU=
+		</data>
+		<key>LocalizableEN.strings</key>
+		<data>
+		98PX6q5Ux6l6KwH7jrCVJCML+3A=
+		</data>
+		<key>LocalizableFR.strings</key>
+		<data>
+		2F9BsvW3dF+jJ/4lkZ0BRyHsJ3o=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Y+xLQJkMh28ALbwRqS8JWqYStRQ=
+		lEhxGXPHGckGejpI1PdkmgjAG4g=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		RbBQIO/Hnk6k3kYuQRy6OGvE8wY=
+		LMdpLhHeENBBHGKNJlImELY5KN8=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		JSDBmo/Ynjef2fYNnEhR3PG2MLw=
+		Ty7aoB5gcsSTqXedS0w3NmMv//U=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RbBQIO/Hnk6k3kYuQRy6OGvE8wY=
+		LMdpLhHeENBBHGKNJlImELY5KN8=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		i4JaW/NfkwDlUxxDvkF9PVAh/ao=
+		10+NZFXvfLq0TyXpQO1I0W/2Hxc=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Y+xLQJkMh28ALbwRqS8JWqYStRQ=
+		lEhxGXPHGckGejpI1PdkmgjAG4g=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		jnToCJ0u7gvJoYQYnXMfdx0Ou1A=
+		4TQITQV3qXHmmc2TgwMPu42zMtk=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		XO+hgH3ZpPsVnQTFEfFb92tH8Bs=
+		xMZoeCTVQwNm2Xbvl106ubsG+Rc=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jnToCJ0u7gvJoYQYnXMfdx0Ou1A=
+		4TQITQV3qXHmmc2TgwMPu42zMtk=
 		</data>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ooYwmwH4MayytWeXdgJEJPwNXFQ=
+		w2yuXmbjQuz49VToe/6IUkwMod0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,14 +139,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rlaM1Z2g91ukcu1AHh1WyuSaCaFPtqgItMpfW9SzGdQ=
+			7jDhDNZAuxx02TSVfsBOROSz90Ru3imh76SMzZThP4k=
 			</data>
 		</dict>
 		<key>Headers/NVIndoorKit.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			neG+GldZ5JA3fe5KQwCL+sdNqbmswcNtqbxJJQ5t7ig=
+			Ee94hyZQRhg/Fsjr+8m+vCV+uayy6KWTPBtDWftp+KY=
 			</data>
 		</dict>
 		<key>Headers/filter.h</key>
@@ -148,74 +156,88 @@
 			sbzepLC7z+jWNxT7kAU3sJzIaPjYwE9+vqBubvk1Qq0=
 			</data>
 		</dict>
+		<key>LocalizableEN.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xTRKwDNBGs/sYPSHpeQNcJUjajcsYdz4joQZBBQ1d+s=
+			</data>
+		</dict>
+		<key>LocalizableFR.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0tt9zs+C5uOHaDuOzYwVhLd6i41gVk3uU56kb2DC5sI=
+			</data>
+		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RpHEq9ss6mZgyu2/AnqpBk4duZBBik5YQ9inol1Fp/I=
+			TIZ2xPIPcC3RQnBZkPZNrLqUIPsJGHbpTterdnzlCRs=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AhdsuQ0vkLKx41D8KjaZw+gcd6UlLAcV/p1HXFFKenA=
+			MNX+dScX/U6sBovJ4USMCAdU1COX9wvImf2ua5Io1eE=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			liWUbZnhUFHht5J2Pft5hAHKOVUas5D9pVy5kcfbxEo=
+			t2Ywqv75+KUCm7Xbuz+f4bPfMYBKD0nQ0/ANSp/ElHY=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AhdsuQ0vkLKx41D8KjaZw+gcd6UlLAcV/p1HXFFKenA=
+			MNX+dScX/U6sBovJ4USMCAdU1COX9wvImf2ua5Io1eE=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OsyDpsykutvDLtsRwur+YVXwxMd5EQrUl560hqPW4/0=
+			lOpB7Gw1GB2mMwLHsU91ksqjpRxtfPtYVTggks78xQY=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RpHEq9ss6mZgyu2/AnqpBk4duZBBik5YQ9inol1Fp/I=
+			TIZ2xPIPcC3RQnBZkPZNrLqUIPsJGHbpTterdnzlCRs=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g2w3xac+sYFFuuuQRP9cjCWMakw6nTEWuGvV5/iGeMM=
+			3K1ro1JsB96oebz9c8XDFnfVRpbKiUIhb4kJyJRrW7U=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XUXUj7xAfbaEVd9O0u2HRm/Zb3F+NchnqxSW4IVTk7E=
+			yoKXDo67Mh2DOqlG9G9xXz/sOeMPOk+BH7Q0Ok+ezWw=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g2w3xac+sYFFuuuQRP9cjCWMakw6nTEWuGvV5/iGeMM=
+			3K1ro1JsB96oebz9c8XDFnfVRpbKiUIhb4kJyJRrW7U=
 			</data>
 		</dict>
 		<key>Modules/NVIndoorKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IpqoewOEAremZyEglOR66G4onluoSOGUvlmTnCIi3V4=
+			A7B/t2bs7ib2Kv9lNdOeI/jS2BqFL9rf9ZfIGquufMM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

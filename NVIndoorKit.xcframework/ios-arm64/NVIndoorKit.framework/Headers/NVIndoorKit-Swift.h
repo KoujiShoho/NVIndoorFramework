@@ -321,8 +321,29 @@ SWIFT_CLASS("_TtC11NVIndoorKit25NVIndoorNavigationService")
 
 
 
+SWIFT_CLASS("_TtC11NVIndoorKit13NVIndoorPlace")
+@interface NVIndoorPlace : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC11NVIndoorKit25NVIndoorTransitionService")
 @interface NVIndoorTransitionService : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+
+SWIFT_CLASS("_TtC11NVIndoorKit24NVibeIndoorRouteProgress")
+@interface NVibeIndoorRouteProgress : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+SWIFT_CLASS("_TtC11NVIndoorKit23NVibeIndoorStepProgress")
+@interface NVibeIndoorStepProgress : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
